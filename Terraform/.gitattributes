@@ -1,2 +1,3 @@
 *.tf text eol=lf
 *.hcl text eol=lf
+* text=auto
