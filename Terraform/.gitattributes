@@ -1,3 +1,4 @@
+* text=auto
 *.tf text eol=lf
 *.hcl text eol=lf
-* text=auto
+*.tfvars text eol=lf
