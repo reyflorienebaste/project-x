@@ -1,15 +1,11 @@
 # 🚀 Learning 101
 
-This repository is my hands-on space for practicing SRE discipline and cloud engineering skills.
+This repository is a hands-on learning space for cloud infrastructure, automation, and site reliability engineering (SRE). It contains practical exercises and experiments as I build skills across cloud platforms and DevOps tooling.
 
-## 🧠 Current focus
-- Terraform for provisioning cloud resources
-- AWS cloud practices
-- Azure cloud practices
-- Linux system administration
-- Kubernetes and container orchestration
-- k9s for Kubernetes cluster management
-- OpenLens for Kubernetes monitoring and visualization
+## 🧠 Learning focus
+- **Infrastructure as Code:** Use Terraform to provision and manage cloud resources.
+- **Cloud platforms:** Practice infrastructure and operations across AWS and Azure.
+- **CI/CD and automation:** Use GitHub Actions to automate checks and workflows, including validation of infrastructure changes.
 
 ## ✅ Goal
-To build practical experience in managing reliable, scalable, and secure cloud infrastructure using modern DevOps and SRE workflows.
+Build practical experience designing, validating, and operating reliable, scalable, and secure cloud infrastructure using modern DevOps and SRE practices.
